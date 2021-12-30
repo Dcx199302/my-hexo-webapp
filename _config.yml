@@ -62,6 +62,6 @@ ignore: null
 theme: icarus
 deploy:
   type: git
-  repo: https://github.com/Dcx199302/my-hexo-webapp.github.io #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: "https://github.com/Dcx199302/my-hexo-webapp.github.io" #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: [branch]
   message: [message]
