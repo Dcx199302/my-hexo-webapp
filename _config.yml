@@ -5,7 +5,7 @@ keywords: null
 author: xuchengdong
 language: zh-CN
 timezone: ""
-url: http://example.com
+url: http://localhost:5000/
 permalink: ":year/:month/:day/:title/"
 permalink_defaults: null
 pretty_urls:
@@ -61,4 +61,4 @@ exclude: null
 ignore: null
 theme: icarus
 deploy:
-  type: ""
+  type: git
